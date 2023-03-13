@@ -11,5 +11,5 @@
 <p align="left">
 <a href="https://instagram.com/@vinicius.a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinicius.a_" height="30" width="40" /></a>
 </p>
-
+<img align="center" src="https://media.tenor.com/Rh_a5EpxDRoAAAAC/touhou-sakuya.gif" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciuscosta727&show_icons=true&locale=en" alt="viniciuscosta727" /></p>
