@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **programming**
 
-- 📫 How to reach me **viniciuscambe@hotmail.com**
+- 📫 How to reach me **viniciuscambe@hotmail.com**/Vala#0938
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
