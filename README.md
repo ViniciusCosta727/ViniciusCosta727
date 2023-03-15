@@ -1,5 +1,5 @@
 <h1 align="center">Heyyy 👋, I'm Vinicius</h1>
-<h3 align="center">I'm currently a student of Software Engineer from Unifil/Brazil</h3>
+<h3 align="center">I'm currently a student of Software Engineering from Unifil/Brazil</h3>
 <a target="_blank" href="https://youtu.be/4-G1Y6slHbQ"><img align="center" src="https://media.tenor.com/fCNWppnFSSQAAAAC/anime.gif" alt="Pierce the Heavens!"/></a>
 
 - 💻 I’m currently working on **SIXDATA Sistemas de Gestão em Cambé** and putting learning into practice
